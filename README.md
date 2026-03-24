@@ -29,17 +29,15 @@ My goal is to deliver efficient, high-quality solutions that meet both technical
 
 [![Tools](https://skillicons.dev/icons?i=git,github,githubactions)](https://skillicons.dev)
 
-## </div>
+</div>
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=MuhammadAunR&locale=en&mode=daily&theme=react&hide_border=true&border_radius=7" width="70%" alt="Streak Graph" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammadAunR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true" width="70%" alt="Stats Graph" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadAunR&locale=en&hide=java,c&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true" width="50%" alt="Languages Graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=MuhammadAunR&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&cache_seconds=1800" width="70%" alt="GitHub Stats" />
 
 </div>
 
@@ -48,7 +46,7 @@ My goal is to deliver efficient, high-quality solutions that meet both technical
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://muhammad-aun.vercel.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammad-aun-rasheed-45a177301)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-aun-rasheed-45a177301)
 
 ---
 
