@@ -1,6 +1,6 @@
 <h1 align="center">✨ Muhammad Aun Rasheed ✨</h1>
 <p align="center">
-  <strong>MERN Stack Developer</strong>
+  <strong>MERN Stack Developer</strong> | <strong>React.js / Next.js</strong>
 </p>
 
 ---
