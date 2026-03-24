@@ -39,7 +39,7 @@ My goal is to deliver efficient, high-quality solutions that meet both technical
 
 <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAunR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true" width="70%" alt="Stats Graph" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=m-muzamal&locale=en&hide=java,c&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true" width="50%" alt="Languages Graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadAunR&locale=en&hide=java,c&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true" width="50%" alt="Languages Graph" />
 
 </div>
 
