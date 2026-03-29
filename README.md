@@ -1,6 +1,14 @@
-<h1 align="center">✨ Muhammad Aun Rasheed ✨</h1>
+<!-- <h1 align="center">✨ Muhammad Aun Rasheed ✨</h1>
 <p align="center">
   <strong>MERN Stack Developer</strong> | <strong>React.js / Next.js</strong>
+</p> -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&color=00F9FF&width=750&lines=Hi+there,+I'm+M+Aun+Rasheed.;MERN+Stack+Developer.;Building+Modern+Web+Experiences.;Turning+Ideas+into+Scalable+Apps." alt="Typing Intro" />
+</h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0FF0FC&height=150&section=header&text=M%20Aun%20Rasheed%20%7C%20MERN%20Stack%20Dev&fontSize=30&fontColor=000000&animation=twinkling" />
 </p>
 
 ---
